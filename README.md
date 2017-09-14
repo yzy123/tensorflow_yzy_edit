@@ -6,9 +6,14 @@
 ## Project Instruction:
 
 * Learn how to use gitup on Youtube Channel:LearnCode.academy (https://www.youtube.com/watch?v=0fKg7e37bQE&t=463s)
+
 * Learn how to install Tensorflow on computer on Tensorflow official website
 (https://www.tensorflow.org/install/install_mac#ValidateYourInstallation)
 
+* Choose one module "Video Prediction" and modify it.
+
+
+## Original Module Content
 
 *A TensorFlow implementation of the models described in [Unsupervised Learning for Physical Interaction through Video Prediction (Finn et al., 2016)](https://arxiv.org/abs/1605.07157).*
 
