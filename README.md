@@ -5,9 +5,9 @@
 
 ## Project Instruction:
 
-* Learn how to use GitHub on Youtube Channel:LearnCode.academy (https://www.youtube.com/watch?v=0fKg7e37bQE&t=463s)
+* Learn to use GitHub on Youtube Channel:LearnCode.academy (https://www.youtube.com/watch?v=0fKg7e37bQE&t=463s)
 
-* Learn how to install Tensorflow on computer on Tensorflow official website
+* Learn to install Tensorflow on computer on Tensorflow official website
 (https://www.tensorflow.org/install/install_mac#ValidateYourInstallation)
 
 * Learn different modules of Tensorflow:
