@@ -28,8 +28,8 @@ from tensorflow.python.platform import gfile
 FLAGS = flags.FLAGS
 
 # Original image dimensions
-ORIGINAL_WIDTH = 640
-ORIGINAL_HEIGHT = 512
+ORIGINAL_WIDTH = 700
+ORIGINAL_HEIGHT = 700
 COLOR_CHAN = 3
 
 # Default image dimensions.
