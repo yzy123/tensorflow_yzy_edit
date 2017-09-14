@@ -25,13 +25,13 @@ from prediction_input import build_tfrecord_input
 from prediction_model import construct_model
 
 # How often to record tensorboard summaries.
-SUMMARY_INTERVAL = 40
+SUMMARY_INTERVAL = 50
 
 # How often to run a batch through the validation model.
-VAL_INTERVAL = 200
+VAL_INTERVAL = 300
 
 # How often to save a model checkpoint
-SAVE_INTERVAL = 2000
+SAVE_INTERVAL = 3000
 
 # tf record data location:
 DATA_DIR = 'push/push_train'
