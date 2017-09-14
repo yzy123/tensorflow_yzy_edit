@@ -1,17 +1,23 @@
 # Tensorflow_edit_test
 ## Editor:
 * Zhiyi Yang (yzy123@bu.edu)
-* Xingtong Hao ()
+* Xingtong Hao (hxtong@bu.edu)
 
 ## Project Instruction:
 
-* Learn how to use gitup on Youtube Channel:LearnCode.academy (https://www.youtube.com/watch?v=0fKg7e37bQE&t=463s)
+* Learn how to use GitHub on Youtube Channel:LearnCode.academy (https://www.youtube.com/watch?v=0fKg7e37bQE&t=463s)
 
 * Learn how to install Tensorflow on computer on Tensorflow official website
 (https://www.tensorflow.org/install/install_mac#ValidateYourInstallation)
 
+* Learn different modules of Tensorflow:
+(https://github.com/tensorflow/models)
+
 * Choose one module "Video Prediction" and modify it.
 
+* Create a new branch to propose changes to GitHub projects.
+
+* Open pull request to review the potential changes with collaborators and add follow-up commits.
 
 ## Original Module Content
 
